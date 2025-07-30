@@ -1,0 +1,10 @@
+#include<iostream>usingnamespacestd;intmain(){intx=NUM 5=5
+;if(x>term 5=5
+RESULT = 5
+NUM 0=0
+){cout<<"xispositive"<<endl;}returnterm 0=0
+RESULT = 0
+NUM 0=0
+;}term 0=0
+RESULT = 0
+Parsing Finished
